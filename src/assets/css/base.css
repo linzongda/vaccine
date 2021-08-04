@@ -1,0 +1,36 @@
+.box{
+    margin:20px 30px;
+    border:1px solid rgb(200,200,200);
+    border-radius: 10px;
+}
+.span{
+    display: flex;
+}
+.indent{
+    text-align: center;
+    margin:5px 25px;
+    height: 60px;
+    flex: 1;
+    border:1px solid rgb(143,184,255);
+    border-radius: 5px;
+    background-color: rgb(243,246,248);
+
+}
+a{
+    position: relative;
+    top: 12px;
+    font-size: 23px;
+    font-weight:bolder;
+}
+
+
+.active{
+    text-align: center;
+    margin:5px 25px;
+    height: 60px;
+    color:rgb(0,93,239);
+    /*flex: 1;*/
+    border:1px solid rgb(143,184,255);
+    border-radius: 5px;
+    background-color: rgb(208,234,255);
+}
